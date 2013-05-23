@@ -6,9 +6,9 @@ The Scoreboard is a JavaScript Widget that is easy to embed on any web site with
 
 This documentation covers the following areas:
 
-1. [Getting Started](/getting-started.md) - "Hello World"
+1. [Getting Started](/getting-started.md) - display a basic Scoreboard on a Web page;
 
-2. [Presentation](/presentation.md) - change fonts and width.
+2. [Presentation](/presentation.md) - change fonts and width;
 
 3. [Today's Games](/games-of-today.md) - display list of today's games.
 
