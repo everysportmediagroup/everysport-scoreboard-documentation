@@ -1,6 +1,6 @@
 # Getting Started
 The following code embeds the Scoreboard:
-'''html
+```html
 	<!DOCTYPE html>
 	<html>
 	<head>  
@@ -29,7 +29,7 @@ The following code embeds the Scoreboard:
 	</script>
 	</body>
 	</html>
-'''
+```
 
 
 
