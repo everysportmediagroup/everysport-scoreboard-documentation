@@ -33,9 +33,9 @@ var esApiKey = "{YOUR APIKEY}";
 ```
 
 Note the following: 
-* The Scoreboard is included using a <script> tag.
-* A <div> element with CSS class 'everysport-scoreboard' holds the Scoreboard. 
-* The width and font size is set by CSS on the Scoreboard <div> element.   
+* The Scoreboard is included using a `<script>´ tag.
+* A `<div>´ element with CSS class 'everysport-scoreboard' holds the Scoreboard. 
+* The width and font size is set by CSS on the Scoreboard `<div> element.   
 
 
 
