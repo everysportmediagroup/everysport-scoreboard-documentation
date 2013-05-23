@@ -11,8 +11,8 @@ This documentation assumes basic familiarity with HTML, CSS and JavaScript. It i
 For Application Developers, a documentation of the Everysport API is available at https://github.com/menmo/everysport-api-documentation.
 
 
-# How to use the Scoreboard
-To use the Scoreboard you need an APIKEY from Everysport. This can be requested from support@everysport.com. 
+# Obtaining an API Key
+In order to load the Scoreboard you need an API Key. This can be requested from support@everysport.com. 
 
 In order to be granted a license you need to approve the Terms of Use as defined at:
 https://github.com/menmo/everysport-api-documentation/blob/master/basics/terms_of_use.md
