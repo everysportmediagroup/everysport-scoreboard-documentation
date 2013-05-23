@@ -5,6 +5,7 @@ The Everysport Scoreboard lets the user browse results, standings and schedules 
 The Scoreboard is a JavaScript Widget that is easy to embed on any web site with just a few lines of code. It's designed for responsive Web sites: data is loaded in the background and the layout adapts to the size of the screen. 
 
 This documentation covers the following areas:
+
 1. [Getting Started](/getting-started.md) - "Hello World"
 
 2. [Presentation](/presentation.md) - change fonts and width.
