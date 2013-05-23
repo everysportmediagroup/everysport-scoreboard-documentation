@@ -1,20 +1,20 @@
 # The Everysport Scoreboard
 
-The Everysport Scoreboard lets the user browse results, standings and schedules from Everysport.com. 
+The Everysport Scoreboard lets the user browse results, standings and schedules from [Everysport](http://everysport.com). 
 
 The Scoreboard is a JavaScript Widget that is easy to embed on any web site with just a few lines of code. It's designed for responsive Web sites: data is loaded in the background and the layout adapts to the size of the screen. 
 
 This documentation covers the following areas:
 
 1. [Getting Started](/getting-started.md) - display a basic Scoreboard on a Web page;
-
 2. [Presentation](/presentation.md) - change fonts and width;
-
 3. [Today's Games](/games-of-today.md) - display list of today's games.
+
+The latest version of the Scoreboard is displayed [here](http://www.menmo.se/responsiv-resultatbors/ "Menmo Blog").
 
 
 ## To the reader
-This documentation assumes basic familiarity with HTML, CSS and JavaScript. It is intended for anyone that wishes to embed the Scoreboard on their web site.   
+This documentation is intended for anyone that wishes to embed the Scoreboard on their web site. It assumes basic familiarity with HTML, CSS and JavaScript.     
 
 For Application Developers, a documentation of the Everysport API is available at https://github.com/menmo/everysport-api-documentation.
 
