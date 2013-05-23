@@ -24,7 +24,7 @@ The following Web page displays today's games only, in a 320px wide area:
 <div class="everysport-calendar"></div>
 
 <script>
-var esApiKey = "{DIN APIKEY}";
+var esApiKey = "{YOUR APIKEY}";
 (function(d, t) {
     var g = d.createElement(t),
         s = d.getElementsByTagName(t)[0];
