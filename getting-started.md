@@ -5,7 +5,7 @@ The following Web page displays the Scoreboard. It lets the user choose a sport 
 <!DOCTYPE html>
 <html>
 <head>  
-   <meta name="viewport" content="initial-scale=1.0" /> 
+
   <style style="text/css">
     	body {
     		font-size: 90%;
