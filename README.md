@@ -10,7 +10,7 @@ This documentation covers the following areas:
 2. [Presentation](/presentation.md) - change fonts and width;
 3. [Today's Games](/games-of-today.md) - display list of today's games.
 
-The latest version of the Scoreboard is displayed [here](http://www.menmo.se/responsiv-resultatbors/ "Menmo Blog").
+The latest version of the Scoreboard is displayed [here](http://scoreboard.everysport.com/ "Menmo Blog").
 
 
 ## To the reader
