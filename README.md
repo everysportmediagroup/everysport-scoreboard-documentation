@@ -9,6 +9,7 @@ This documentation covers the following areas:
 1. [Getting Started](/getting-started.md) - display a basic Scoreboard on a Web page;
 2. [Presentation](/presentation.md) - change fonts and width;
 3. [Today's Games](/games-of-today.md) - display list of today's games.
+4. [Trend Tables](/trend-tables.md) - activating the Trend Tables. 
 
 The latest version of the Scoreboard is displayed [here](http://scoreboard.everysport.com/ "Menmo Blog").
 
