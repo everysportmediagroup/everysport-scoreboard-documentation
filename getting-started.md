@@ -39,6 +39,26 @@ Note the following:
 
 
 
+## Pre-selected league
+
+Use the ```data-league-selected```attribute to start the scoreboard with a pre-selected league. In this example 60243 is the Everysport league ID for SHL, the Swedish Hockey League.  
+
+```html
+<div class="everysport-scoreboard" data-league-selected="60243"></div>
+```
+
+## Pre-selected sport
+
+Use the ```data-sport-selected```attribute to start the scoreboard with a pre-selected sport. In this example 2 is Hockey.  
+
+```html
+<div class="everysport-scoreboard" data-sport-selected="2"></div>
+```
+The sport IDs are defined [here]("https://github.com/menmo/everysport-api-documentation/blob/master/endpoints/GET_sports.md")
+
+
+
+
 
 
 
