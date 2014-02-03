@@ -56,6 +56,14 @@ Use the ```data-sport-selected```attribute to start the scoreboard with a pre-se
 ```
 The sport IDs are defined [here]("https://github.com/menmo/everysport-api-documentation/blob/master/endpoints/GET_sports.md")
 
+## Hidden menu / topbar
+
+Use the ```data-hide-menu``` attribute to hide the menu. This is ideal for including the scoreboard in articles related to a specific league.
+
+```html
+<div class="everysport-scoreboard" data-league-selected="60243" data-hide-menu="true"></div>
+```
+
 
 
 
