@@ -56,13 +56,44 @@ Use the ```data-sport-selected```attribute to start the scoreboard with a pre-se
 ```
 The sport IDs are defined [here]("https://github.com/menmo/everysport-api-documentation/blob/master/endpoints/GET_sports.md")
 
-## Hidden menu / topbar
+
+
+## Pre-selected team
+
+Use the ```data-team``` attribute to launch the scoreboard with the current standings and events for a specific team. The attribute should contain the Everysport team Id.
+
+
+```html
+<div class="everysport-scoreboard" data-team="9375"></div>
+```
+
+
+
+## Hide menu / topbar
 
 Use the ```data-hide-menu``` attribute to hide the menu. This is ideal for including the scoreboard in articles related to a specific league.
 
 ```html
 <div class="everysport-scoreboard" data-league-selected="60243" data-hide-menu="true"></div>
 ```
+
+## Hide events or standings 
+
+User ```data-hide-events``` or ```data-hide-standings``` to hide the respective section. For example, to show only the table, hide the events. 
+
+```html
+<div class="everysport-scoreboard" data-league-selected="60243" data-hide-menu="true" data-hide-events="true"></div>
+```
+
+## Disable URL hash 
+
+User ```data-hash-tag``` to disable that the scoreboard updated the URL when the user navigates. 
+
+```html
+<div class="everysport-scoreboard" data-league-selected="60243" data-hash-tag="false"></div>
+```
+
+
 
 
 
