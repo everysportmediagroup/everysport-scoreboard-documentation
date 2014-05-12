@@ -10,6 +10,7 @@ This documentation covers the following areas:
 2. [Presentation](/presentation.md) - change fonts and width;
 3. [Today's Games](/games-of-today.md) - display list of today's games.
 4. [Trend Tables](/trend-tables.md) - activating the Trend Tables. 
+5. [Tables only](/tables.md) - displays the table only for a specific league.
 
 The latest version of the Scoreboard is displayed [here](http://scoreboard.everysport.com/ "Menmo Blog").
 
