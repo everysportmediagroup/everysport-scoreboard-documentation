@@ -29,6 +29,8 @@ You can change the background- and text-color of the top-bar of the Scoreboard b
 <div class="everysport-scoreboard" data-color="black" data-background-color="white" ></div>
 ```
 
+## Top-bar colors with multiple-scoreboards
+If you want to include multiple scoreboards on the same page is it the last scoreboard-containers color-attribute that colors all scoreboards. This is just a convenience shortcut from our side. If this feature is important to you, please let us know.
    
 
 
